@@ -1,4 +1,4 @@
-package StaffForm;
+package form.StaffForm;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

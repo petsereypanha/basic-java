@@ -1,4 +1,4 @@
-package AWT;
+package form.AWT;
 
 import java.awt.*;
 

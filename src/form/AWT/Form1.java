@@ -1,10 +1,9 @@
-package AWT;
+package form.AWT;
 
 import java.awt.Button;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Frame;
-import java.awt.Label;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 

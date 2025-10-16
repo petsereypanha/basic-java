@@ -1,4 +1,4 @@
-package HashTable;
+package oop.HashTable;
 
 import java.util.*;
 

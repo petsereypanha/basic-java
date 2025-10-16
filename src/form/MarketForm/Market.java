@@ -1,10 +1,9 @@
-package MarketForm;
+package form.MarketForm;
 
 import java.awt.*;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-import javax.swing.ImageIcon;
 import javax.swing.JLabel;
 
 

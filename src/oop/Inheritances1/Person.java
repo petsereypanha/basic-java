@@ -1,4 +1,4 @@
-package Inheritances1;
+package oop.Inheritances1;
 
 import java.util.*;
 

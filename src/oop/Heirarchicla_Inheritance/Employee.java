@@ -1,4 +1,4 @@
-package Heirarchicla_Inheritance;
+package oop.Heirarchicla_Inheritance;
 
 import java.util.*;
 
