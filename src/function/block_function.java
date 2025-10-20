@@ -1,4 +1,4 @@
-package funtion;
+package function;
 public final class block_function {
     int Sum2(int x)
     {

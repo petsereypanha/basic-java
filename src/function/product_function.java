@@ -1,5 +1,5 @@
 
-package funtion;
+package function;
 
 import java.util.Scanner;
 
