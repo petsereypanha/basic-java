@@ -1,4 +1,4 @@
-package funtion;
+package function;
 public class return_function {
     int Sum1()   // retutn non-paramater
     {

@@ -1,4 +1,4 @@
-package funtion;
+package function;
 public final class non_return1 {
     
     void sum1(){
