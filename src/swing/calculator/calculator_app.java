@@ -1,4 +1,4 @@
-package swing.Calculator;
+package swing.calculator;
 
 import java.awt.Color;
 import static java.lang.Math.cos;
