@@ -1,4 +1,4 @@
-package swing.Store;
+package swing.store;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
